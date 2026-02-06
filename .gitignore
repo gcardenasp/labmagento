@@ -1,0 +1,25 @@
+# Composer vendor
+/vendor/
+
+# Magento generated files
+/generated/
+# Cache and logs
+/var/
+# Static assets (recompilados)
+/pub/static/
+
+# Local config con credenciales
+/app/etc/env.php
+
+# IDE/editor configs
+/.idea/
+/.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sample data repo
+/magento2-sample-data/
+
+
